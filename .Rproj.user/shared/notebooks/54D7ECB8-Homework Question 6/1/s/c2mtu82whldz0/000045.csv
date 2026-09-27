@@ -1,0 +1,5 @@
+"0",""
+"0","plot(gci_data$organizational * 5, gci_data$cooperation * 5,"
+"0","     main = ""Organization vs. Cooperation"","
+"0","     xlab = ""Organizational score (rescaled 0–100)"", ylab = ""Cooperation score (rescaled 0–100)"","
+"0","     pch = 19, col = ""#C15F3C80"")"
