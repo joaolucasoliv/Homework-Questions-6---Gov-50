@@ -1,5 +1,0 @@
-"0",""
-"0","plot(gci_data$capacity * 5, gci_data$technical * 5,"
-"0","     main = ""Capacity vs. Technical"","
-"0","     xlab = ""Capacity score (rescaled 0–100)"", ylab = ""Technical score (rescaled 0–100)"","
-"0","     pch = 19, col = ""#C15F3C80"")"

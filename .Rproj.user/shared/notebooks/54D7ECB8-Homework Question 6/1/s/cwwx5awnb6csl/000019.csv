@@ -1,4 +1,0 @@
-"0","gci_data <- read.csv(""gci_2024.csv"", stringsAsFactors = FALSE,"
-"0","                     fileEncoding = ""UTF-8"")"
-"0",""
-"0","head(gci_data)"

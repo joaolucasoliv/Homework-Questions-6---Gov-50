@@ -1,6 +1,0 @@
-"0",""
-"0","par(mfrow = c(1, 3), oma = c(0, 0, 3, 0)) #mfrow is the function we use to plot the three graphs; oma is the opacity "
-"0","plot(gci_data$legal * 5, gci_data$technical *5,"
-"0","     main = ""Legal vs. Technical"","
-"0","     xlab = ""Legal score (rescaled 0–100)"", ylab = ""Technical score (rescaled 0–100)"","
-"0","     pch = 19, col = ""#C15F3C80"")"

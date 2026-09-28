@@ -1,0 +1,11 @@
+# Local R and RStudio session files
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+
+# Local NeuroTrace connection credentials
+.neurotrace/
+
+# macOS metadata
+.DS_Store
